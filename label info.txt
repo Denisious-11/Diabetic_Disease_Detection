@@ -1,0 +1,5 @@
+Diabetics dataset
+-----------------
+
+healthy 	- 0
+diabetic	- 1
